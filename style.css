@@ -1,0 +1,13 @@
+body,h1,h2,h3,u1,li{
+    margin: 5;
+    padding: 5;
+}
+h1{
+    color:rgb(6, 70, 6);
+}
+body{
+    background-color: rgb(138,171,156);
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
